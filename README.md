@@ -6,10 +6,10 @@ In this analysis we conducted an overview of the employment data for Pewlett-Hac
 ## Results
 
 1. There is a very large bloc of employees who will likely be retiring in the very near future. Of the ~ 300,000 employees , more than 72,000 are at or near retirement age. 
-()()()()()()() retirement_cout()()()()()()
+![retirement_count](Pewlett-Hackard-Analysis/retirement_count.png)
 2. There are likely to be some retirements at every staffing position of the company. However the 'Senior Staff' and 'Senior Engineer' positions are looking to be hit particularly hard with more than 2/3rd's of the likely retirees being in those postions.
 3. Concerning the implementation of a mentorship program with some of the more senior staff who are not quite to retirement age there are 1549 employees who are eligible based on age. With the amount of training that will soon be required to replace almost 30% of the workforce it would porbably be advisable to implement everyone who is willing and eligible to this program.
-())()(()()( mentor_tail()()()()(()(
+![mentor_tail](Pewlett-Hackard-Analysis/mentor_tail.png)
 4. Among those eligible for the mentorship program, even the least experienced have at least 19 years at the company.
 
 ## Summary
